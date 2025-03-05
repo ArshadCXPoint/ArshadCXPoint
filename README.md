@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Arshad
 
-I am a **Senior Full Stack Developer & DevOps Engineer** with over **10 years of experience** in building and deploying **scalable, secure, and efficient applications**. I specialize in **backend development, cloud platforms (AWS, GCP, Firebase, Azure AI), and DevOps tools** like **Docker, Kubernetes, and CI/CD pipelines**.
+I am a **Senior Full Stack Developer & DevOps Engineer** with over **5+ years of experience** in building and deploying **scalable, secure, and efficient applications**. I specialize in **backend development, cloud platforms (AWS, GCP, Firebase, Azure AI), and DevOps tools** like **Docker, Kubernetes, and CI/CD pipelines**.
 
 With expertise in **Python (FastAPI, Django, Flask), Golang, and JavaScript (React.js, Next.js)**, I have successfully built and managed **microservices architectures, API integrations, cloud infrastructure, and AI-driven solutions**.
 
@@ -41,9 +41,9 @@ If you have a project idea or want to collaborate, feel free to **connect with m
 ## 📫 How to Reach Me
 
 - **GitHub**: [@ArshadCXPoint](https://github.com/ArshadCXPoint)
-- **LinkedIn**: [Arshad (Your LinkedIn URL)](https://www.linkedin.com/in/marshad001)
-- **Email**: mohd.arshad.v@cxpoint.co.in (Replace with your actual email)
-- **Website/Portfolio**: [Your Website](https://arshadmq.com) *(If applicable)*
+- **LinkedIn**: [ArshadMQ](https://www.linkedin.com/in/marshad001)
+- **Email**: mohd.arshad.v@cxpoint.co.in
+- **Website/Portfolio**: [Your Website](https://arshadmq.com) 
 
 ---
 
